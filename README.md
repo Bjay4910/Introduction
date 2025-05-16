@@ -108,15 +108,47 @@ DevOps & Cloud
     </td>
   </tr>
 </table>
+
+
 📈 GitHub Stats
 <div align="center">
-  <a href="https://github.com/jamesgyampoh">
-    <img src="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=radical" alt="James's GitHub Stats" height="170"/>
-  </a>
-  <a href="https://github.com/jamesgyampoh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=radical&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=default&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=radical&count_private=true" width="48%" alt="James's GitHub Stats" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=radical&hide=html"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=default&hide=html"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=radical&hide=html" width="48%" alt="Top Languages" />
+  </picture>
+  <br />
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=radical" alt="GitHub Streak" />
+  </picture>
 </div>
+
+
 🏆 Experience & Leadership
 
 🔹 Digital Workplace Intern - Maine Department of Transportation (2025)
