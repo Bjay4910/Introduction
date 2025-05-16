@@ -195,13 +195,13 @@ Advanced Backend Optimization
 💬 Let's Connect!
 I'm always looking for new challenges and opportunities to grow as a developer. Whether you want to discuss my projects, explore collaboration opportunities, or just chat about tech, feel free to reach out!
 <div align="center">
-  <a href="https://www.linkedin.com/in/james-barnabas-gyampoh/">
+  <a href="https://www.linkedin.com/in/james-gyampoh-39849b2b1/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Let's Connect!">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/jamesgyampoh">
+  <a href="https://github.com/Bjay4910">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+building;Full-stack+developer+%26+CS+student;Ready+for+my+next+challenge!" alt="Typing SVG" />
   </a>
 </div>
