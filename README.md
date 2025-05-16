@@ -1,6 +1,7 @@
 # Introduction
 
 
+
 👨‍💻 James Barnabas Gyampoh
 <div align="center">
   <a href="https://www.linkedin.com/in/james-barnabas-gyampoh/">
@@ -9,7 +10,7 @@
   <a href="mailto:jamesgyampoh560@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jamesgyampoh&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Computer_Science_Student-Thomas_College-blue?style=for-the-badge" alt="Education">
 </div>
 🚀 About Me
 javascriptconst james = {
@@ -108,47 +109,17 @@ DevOps & Cloud
     </td>
   </tr>
 </table>
-
-
 📈 GitHub Stats
+<!-- Replace YOUR_USERNAME with your actual GitHub username in the URLs below -->
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=radical&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=default&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jamesgyampoh&show_icons=true&theme=radical&count_private=true" width="48%" alt="James's GitHub Stats" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=radical&hide=html"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=default&hide=html"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgyampoh&layout=compact&theme=radical&hide=html" width="48%" alt="Top Languages" />
-  </picture>
-  <br />
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesgyampoh&theme=radical" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
 </div>
-
-
+<!-- You can also add a GitHub Streak stats below -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username when you copy this to your profile! -->
 🏆 Experience & Leadership
 
 🔹 Digital Workplace Intern - Maine Department of Transportation (2025)
