@@ -109,17 +109,58 @@ DevOps & Cloud
     </td>
   </tr>
 </table>
-📈 GitHub Stats
-<!-- Replace YOUR_USERNAME with your actual GitHub username in the URLs below -->
+📊 Skills & Contributions
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+        <br>Python
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+        <br>React
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/>
+        <br>Spring Boot
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
+        <br>Flask
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+        <br>MongoDB
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+        <br>MySQL
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+        <br>PostgreSQL
+      </td>
+    </tr>
+  </table>
 </div>
-<!-- You can also add a GitHub Streak stats below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome" />
+  <img src="https://img.shields.io/badge/Projects-8+-blue?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/GPA-4.0-success?style=for-the-badge" alt="GPA" />
 </div>
-<!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username when you copy this to your profile! -->
 🏆 Experience & Leadership
 
 🔹 Digital Workplace Intern - Maine Department of Transportation (2025)
